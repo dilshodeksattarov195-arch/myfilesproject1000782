@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpersetch",
+        "uuid": 3358690,
+        "checksum": "y4i1bb"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
